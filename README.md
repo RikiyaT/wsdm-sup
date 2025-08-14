@@ -1,4 +1,4 @@
 # Diversification as Risk-Minimization - Supplementary Meterial
 
-## Main Text + Appendix in 
+## Main Text _with Appendix_ is in 
 
