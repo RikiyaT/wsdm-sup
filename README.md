@@ -1,1 +1,4 @@
-# wsdm2026-supplementary
+# Diversification as Risk-Minimization - Supplementary Meterial
+
+## Main Text + Appendix in 
+
